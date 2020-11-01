@@ -6,3 +6,4 @@ Requires pandas and plotly to be installed, as well as [kaleido](https://plotly.
 
 The resulting plots look will look something like this:
 
+![Fort Collins scatterplot](tavg_prcp_scatter_053005_01Oct_30Sep.png)
