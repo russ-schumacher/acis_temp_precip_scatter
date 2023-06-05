@@ -9,3 +9,5 @@ The code is in the jupyter notebook included here, the only changes a user needs
 The resulting plots look will look something like this (if using Fort Collins, CO and the full water year):
 
 ![Fort Collins scatterplot](tavg_prcp_scatter_053005_01Oct_30Sep.png)
+
+Added in June 2023: [notebook](temp_precip_scatter_cag.ipynb) that makes similar plots from statewide or climate division data from NCEI's Climate at a Glance
